@@ -114,7 +114,7 @@ class DataConstants(object):
     fxcm_write_temp_tick_disk = False
 
     # Quandl settings
-    quandl_api_key = "x"
+    quandl_api_key = "ggMoVmkVV-S5LfqVVmKc"
 
     # Alpha Vantage settings
     alpha_vantage_api_key = "x"
